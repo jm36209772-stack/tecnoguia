@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tecnoguia-gadg.netlify.app/sitemap.xml
